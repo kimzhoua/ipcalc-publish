@@ -1,0 +1,4 @@
+{
+  "payload": "{\n  \"versionCode\": 2,\n  \"versionName\": \"1.0.1\",\n  \"apkUrl\": \"https://raw.githubusercontent.com/kimzhoua/ipcalc-publish/main/dist/app-1.0.1.apk\",\n  \"rawApkUrl\": \"https://raw.githubusercontent.com/kimzhoua/ipcalc-publish/main/dist/app-1.0.1.apk\",\n  \"manifestUrl\": \"https://raw.githubusercontent.com/kimzhoua/ipcalc-publish/main/dist/update.json\",\n  \"sha256\": \"dc5f0aad3bacc7bdcf1f76f2a7f093975b894685750daab9972626278cd7408a\",\n  \"notes\": \"首个带在线更新的版本：底部新增「检查更新」，走签名清单校验与 sha256 校验\"\n}",
+  "sig": "yso+haksnmPGClrD8rZBantQWp9+GBxa2RSuMXgnXsq4UAncpTQNCxjF0a2XVPlb09oRdZFnIBnf9VT0mDDHnymJrDTLBm6vM1strdLKGls/O5lnZNxsmCcn4BjBe+Gjvg/XdvCzRDX7cdabesnzg1YEPGK/0tJfzV90o3nUT/anOnHISZdnV4Inaxk9uVSjGSzENkbLL25AvSunTYHEsNHnLg1RGfOS15dvYogXHo3Oi/Mn9SyEU1ORCzmmU2wuV1gaDYAOdkpi5WnE5pqQ5Xqn48RMRapJPYzVsJQJutqehg4nqf4BzOzBztqlOY9yf9OoOKs7V66ESfbhoIuhIw=="
+}
